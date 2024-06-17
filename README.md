@@ -17,6 +17,7 @@ It's working well, but
 Maintained by me [here](https://github.com/thatLeaflet/prismlauncher-snap).
 
 It's working well, but
+* it's not in the Snap Store, so no automatic upgrades
 * stores files in a weird location (directly in ~/snap/prismlauncher/common rather than a subdirectory like ~/snap/prismlauncher/common/.local/share/prismlauncher). Maybe a future update will look in new place, breaking things?
 * Somehow knows the directory where I built the snap
 
@@ -25,7 +26,8 @@ It's working well, but
 Maintained by me [here](https://github.com/thatLeaflet/librewolf-snap).
 
 It's working well, but
-* this is a security critical app, but I may not update it in a timely manner and may have security issues as I'm neither a browser or snap expert
+* it's not in the Snap Store, so no automatic upgrades
+*  I'm neither a browser or snap expert, so may have security issues
   * but in theory has better sandboxing than flatpak version
 * has a limited set of permissions (but still home directory access for Downloads folder access, can be disabled through snap command)
 
@@ -41,4 +43,4 @@ It's working well, but
 
 Maintained by me [here](https://github.com/thatLeaflet/pika-backup-snap).
 
-Not working. The app launches, but borgbackup is not working.
+Not working. The app launches, but borgbackup fails to run.
