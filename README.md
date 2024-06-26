@@ -38,6 +38,7 @@ Maintained by me [here](https://github.com/thatLeaflet/dconf-editor-snap).
 It's working well, but
 * it's not in the Snap Store, so no automatic upgrades
 * built from 24.04 dconf-editor, so may not be upgraded to newer versions
+* has some missing options due to confinement (didn't look into it too much, but noticed some stuff missing related to extensions and keybindings)
 
 ## Pika Backup
 
