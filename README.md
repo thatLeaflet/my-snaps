@@ -1,8 +1,8 @@
 ## LocalSend
 
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/localsend)
-
 Maintained in the LocalSend Github [here](https://github.com/localsend/snap).
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/localsend)
 
 ## Fastfetch
 
